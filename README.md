@@ -32,6 +32,13 @@ You must install the Docker desktop app
 
 ## local:
 
+To install dependencies
+
+```
+npm i
+```
+
+\
 Run node and postgres locally
 
 ```
